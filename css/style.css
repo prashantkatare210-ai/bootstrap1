@@ -1,0 +1,70 @@
+/*nav*/
+.weblogo{
+    width: 65px;
+}
+ .navbar{
+    background: #00000082!important;
+}
+.navbar ul li{
+    padding: 0 10px;
+}
+.navbar ul li a{
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+
+
+.img123{
+    width: 80%;
+}
+.a{
+    text-align: center;
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-left: 5px;
+    text-align: justify;
+}
+@media(max-width:768px) {
+   .img123{
+    width: 100%;
+    margin-top: 20px;
+} 
+}
+.c {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.d {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+.e {
+    text-align: center;
+    background: black;
+    padding-top: 100px;
+    color: white;
+    margin-top: 20px;
+}
+.f{
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    color: white;
+    padding: 100px 100px;
+}
